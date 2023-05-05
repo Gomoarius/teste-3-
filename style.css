@@ -1,2 +1,23 @@
-header{background-color: aquamarine;
-color: white;}
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{background-color: rgb(253, 253, 253);
+color:rgb(255, 255, 255) (131, 26, 26);
+
+display:flex;
+justify-content: space-around;
+padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width:15%
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24pxs;
+
+}
